@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pradhyumnyadav/Desktop/hft_sys_simulation/output/hft_system'
+relocations:     []
+...
